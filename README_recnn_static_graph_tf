@@ -1,0 +1,10 @@
+
+To get sample input files:
+
+/het/p4/macaluso/recnn/eventTree/tree_qcd.dat
+
+Copy them to:
+/home/sm1237/recnn/inputTrees
+
+Then run:
+python recnn_static_graph.py 

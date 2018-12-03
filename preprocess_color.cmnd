@@ -1,0 +1,14 @@
+LABEL DelphesPythia8_pt800-900
+# LABEL DelphesPythia8_pt800-900_cms
+# LABEL DelphesHerwig_pt800-900_cms
+# LABEL DelphesHerwig_pt800-900_cms_test
+# BATCH pt10_700k
+# LABEL knash_cms_test
+# USESTDFILE standardization_matrix_500000_37_pt800-900_DelphesPythia8_nompi_cms_rot_vflip_hflip__all_max_ncolors5.npy
+NIMAGES 3
+MERGE 0
+PREPROCESS rot_norm_vflip_hflip
+# PREPROCESS norm
+NPOINTS 38
+DRETA 1.6
+DRPHI 1.6
