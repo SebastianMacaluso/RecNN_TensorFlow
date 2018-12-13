@@ -1,4 +1,7 @@
-RECURSIVE NEURAL NETWORK - Sebastian Macaluso 
+RECURSIVE NEURAL NETWORK FOR JET PHYSICS 
+TensorFlow GPU training implementation of G. Louppe, K. Cho, C. Becot and K. Cranmer (arXiv:1702.00748)
+
+Sebastian Macaluso - Dic 2, 2018
 
 
 =================================================================================================
